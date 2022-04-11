@@ -1,0 +1,40 @@
+body {
+    background-color: #393E46;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Redressed', cursive;
+    color: rgb(255, 0, 98);
+    text-align: center;
+    font-size: 8rem;
+}
+
+p {
+    font-size: 2rem;
+    color: antiquewhite;
+    font-family: 'Shizuru', cursive;  
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+.img {
+    width: 80%;
+}
+
+
+footer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    padding: 10%;
+    color: aliceblue;
+}
